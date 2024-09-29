@@ -3,7 +3,7 @@
 
 This repository contains the frontend of a Library Management System built using Angular 17+ and Angular Material UI. The application provides an intuitive interface for managing books, members, and transactions in a library. It is designed for scalability, responsiveness, and ease of use.
 
-Features
+<h3>Features</h3>
 User Dashboard: View library statistics, including the number of books, members, and current transactions.
 Book Management: Add, update, delete, and search books with detailed information such as title, author, and availability.
 Member Management: Manage library members with features like registration, profile updates, and member activity logs.
