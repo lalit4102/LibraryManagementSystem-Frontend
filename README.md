@@ -18,7 +18,7 @@ TypeScript: Ensures type safety and maintainability in the codebase.
 Getting Started
 To run the project locally:
 
-Clone the repository.
+<h5>Clone the repository.</h5>
 Install dependencies:
 bash
 Copy code
